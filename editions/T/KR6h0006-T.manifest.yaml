@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6h0006_009-T.yaml, hash: 'sha256:54ed2b819e91143ceaa7c10f07ef00543c9c99ea21e77c753e225cd014d22f2f'}
   - {seq: 10, filename: KR6h0006_010-T.yaml, hash: 'sha256:484067ac1ba5fe47045ac2b885ef5e996f84cb64a3ba1b594e4b5973788d8f03'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6h0006_000-T.markers.yaml, hash: 'sha256:769728e073612749e8d5985d40bbd89136364538945ae511fce9d59e6af1b4ff'}
+  - {seq: 0, role: markers, filename: assets/KR6h0006_000-T.markers.yaml, hash: 'sha256:64b4fecd45d39a5dbf3cf327d4c12f6134172c39e9df3ffb89a1be3100aeac08'}
   - {seq: 1, role: markers, filename: assets/KR6h0006_001-T.markers.yaml, hash: 'sha256:bd4cb2eff86fac1b0e0716685cc6c8ee61797f191699f6b89968bd9c9b5977b6'}
   - {seq: 2, role: markers, filename: assets/KR6h0006_002-T.markers.yaml, hash: 'sha256:ea5dad8ee3632afadc0d3e4b1325e5f7f9ae304f86090b37342dbe9d1b5bab79'}
   - {seq: 3, role: markers, filename: assets/KR6h0006_003-T.markers.yaml, hash: 'sha256:2d7a7fab44193b24f2d54ace9c9186d2e61f009b12d84e3b98630eb9560ab1ad'}
@@ -283,4 +283,4 @@ table_of_contents:
   label: 13 諸佛還國品
   type: mulu
   level: 1
-hash: sha256:191dea15bd1d889e55412381ca92f9165b537977e6dadfad685795757b64450d
+hash: sha256:95a8528037ba0d8af53324d41034a041f93b3362b2ecb48a8a8e6aa7214a1f51
